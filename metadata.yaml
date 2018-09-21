@@ -1,0 +1,44 @@
+_repo: With-the-British-Legion-A-Story-of-the-Carlist-Wars_53859
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Paget, Walter
+    aliases:
+    - Paget, W. (Walter)
+    - Paget, Wal. (Walter)
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '9756'
+    url: http://www.gutenberg.org/2009/agents/9756
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_issued: '2017-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53859'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Spain -- History -- Carlist War, 1833-1840 -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- GITenberg
+title: 'With the British Legion: A Story of the Carlist Wars'
+url: http://www.gutenberg.org/ebooks/53859
